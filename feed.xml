@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Open for Good</title>
+    <link href="https://mtift.github.io/open-for-good/feed.xml" rel="self" />
+    <link href="https://mtift.github.io/open-for-good" />
+    <updated>2026-04-10T08:00:54-05:00</updated>
+    <author>
+        <name>Matthew Tift</name>
+    </author>
+    <id>https://mtift.github.io/open-for-good</id>
+
+    <entry>
+        <title>Setting Up Your Site with GitHubPages</title>
+        <author>
+            <name>Matthew Tift</name>
+        </author>
+        <link href="https://mtift.github.io/open-for-good/setting-up-your-site-with-githubpages.html"/>
+        <id>https://mtift.github.io/open-for-good/setting-up-your-site-with-githubpages.html</id>
+
+        <updated>2026-04-10T08:00:54-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Have you ever wanted to put a website on the internet without paying monthly hosting fees? That’s what drew me to Publii and GitHub Pages in the first place. The combination gives you a real website, hosted for free, with no catch.Once you’ve got your&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Have you ever wanted to put a website on the internet without paying monthly hosting fees? That’s what drew me to Publii and GitHub Pages in the first place. The combination gives you a real website, hosted for free, with no catch.Once you’ve got your GitHub repository ready to go, the next step happens back in Publii. Open up the app and head to your site’s connection settings. This is where you tell Publii to sync everything with the GitHub Pages repository you just created.One thing to know before you get there: Publii won’t build your site properly unless you’ve already added at least one post and picked a theme. If you skipped either of those steps, go back and do that first. It doesn’t need to be a polished post or the perfect theme. Just get something in place so Publii has enough to work with.After that, updating the connection settings takes about two minutes. Point Publii at your repository, hit sync, and your site goes live. No FTP credentials, no server configuration, no terminal commands. You click a button and it’s done.If you’re new to all of this, don’t let the GitHub part intimidate you. The Publii docs walk through every step with screenshots, and once you’ve done it once, syncing future updates feels like saving a file.Give it a try and see your site show up at your GitHub Pages URL. There’s something satisfying about watching it appear.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

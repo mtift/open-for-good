@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mtift.github.io/open-for-good/sitemap.xml
